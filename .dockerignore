@@ -1,0 +1,8 @@
+node_modules
+outputs
+*.log
+.DS_Store
+StreamSlice_Exports
+uploads
+uploads_tmp
+src/desktop.ini

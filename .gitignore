@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
